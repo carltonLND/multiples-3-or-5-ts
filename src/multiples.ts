@@ -1,5 +1,5 @@
 function multiples(endNum: number): number {
-  if (endNum <= 2) {
+  if (endNum < 3) {
     return 0;
   }
 
